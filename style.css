@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(210, 210, 210);
+}
+#contentContainer {
+    margin: auto px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 770PX;
+}
+.box {
+    padding: 50px;
+    background-color:rgb(50, 50, 50);
+    justify-content: flex-start;
+    margin: 30px;
+    flex-wrap: wrap;
+    border-radius: 5px;
+}
+.lightBox   {
+    background-color: rgb(185, 189, 189);
+}
